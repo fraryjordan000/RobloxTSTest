@@ -160,6 +160,3 @@ export class InstanceInfo {
 		return rtn;
 	}
 }
-
-const a = new InstanceInfo(game.Workspace);
-a.SetProperty("BrickColor", new BrickColor("Black"));
